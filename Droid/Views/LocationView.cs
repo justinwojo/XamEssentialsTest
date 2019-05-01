@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.OS;
+using Core.ViewModels;
 using MvvmCross.Platforms.Android.Views;
-using XamEssentialsTest.Core.ViewModels;
 
 namespace XamEssentialsTest.Droid.Views
 {

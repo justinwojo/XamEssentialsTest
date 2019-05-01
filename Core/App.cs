@@ -1,8 +1,7 @@
-﻿using System;
+﻿using Core.ViewModels;
 using MvvmCross.ViewModels;
-using XamEssentialsTest.Core.ViewModels;
 
-namespace XamEssentialsTest.Core
+namespace Core
 {
     public class App : MvxApplication
     {

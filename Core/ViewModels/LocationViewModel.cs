@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Threading.Tasks;
+using Core.Services;
 using MvvmCross.Commands;
 using MvvmCross.ViewModels;
-using XamEssentialsTest.Core.Services;
 
-namespace XamEssentialsTest.Core.ViewModels
+namespace Core.ViewModels
 {
     public class LocationViewModel : MvxViewModel
     {

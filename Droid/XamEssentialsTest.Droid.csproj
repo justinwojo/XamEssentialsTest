@@ -82,13 +82,13 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamEssentialsTest.Core\XamEssentialsTest.Core.csproj">
+    <Folder Include="Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\XamEssentialsTest.Core.csproj">
       <Project>{1E92C0A3-5552-41C7-849E-AF1A447AD480}</Project>
       <Name>XamEssentialsTest.Core</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Views\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

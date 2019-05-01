@@ -1,8 +1,8 @@
 ﻿using System;
 using Android.App;
 using Android.Runtime;
+using Core;
 using MvvmCross.Droid.Support.V7.AppCompat;
-using XamEssentialsTest.Core;
 
 namespace XamEssentialsTest.Droid
 {

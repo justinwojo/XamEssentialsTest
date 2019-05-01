@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamEssentialsTest.Droid", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamEssentialsTest.iOS", "iOS\XamEssentialsTest.iOS.csproj", "{2450A186-137E-46B3-ACD4-6C5D2C696277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamEssentialsTest.Core", "XamEssentialsTest.Core\XamEssentialsTest.Core.csproj", "{1E92C0A3-5552-41C7-849E-AF1A447AD480}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamEssentialsTest.Core", "Core\XamEssentialsTest.Core.csproj", "{1E92C0A3-5552-41C7-849E-AF1A447AD480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

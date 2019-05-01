@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Essentials;
 
-namespace XamEssentialsTest.Core.Services
+namespace Core.Services
 {
     public class LocationService
     {
