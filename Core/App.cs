@@ -9,7 +9,7 @@ namespace Core
         {
             base.Initialize();
 
-            RegisterAppStart<LocationViewModel>();
+            RegisterCustomAppStart<AppStart>();
         }
     }
 }

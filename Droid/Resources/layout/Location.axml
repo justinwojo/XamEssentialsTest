@@ -15,6 +15,21 @@
         android:id="@+id/getlocationbutton"
         android:layout_width="200dp"
         android:layout_height="40dp"
+        android:layout_marginTop="20dp"
         local:MvxBind="Text LocationButtonText; Click LocationClick">
+    </Button>
+    <Button
+        android:id="@+id/navbutton"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        local:MvxBind="Text NavButtonText; Click NavClick">
+    </Button>
+    <Button
+        android:id="@+id/nav2button"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        local:MvxBind="Text NavButtonLinkText; Click NavLinkClick">
     </Button>
 </LinearLayout>
